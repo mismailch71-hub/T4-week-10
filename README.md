@@ -14,7 +14,7 @@ Aplikasi crud (create, read, update, delete) menggunakan php,mysql, dan bootstra
 ## cara menjalankan
 1. Import file .sql ke phpMyadmin
 2. letakkan folder project di htdoscs
-3. buka browser ke http://localhost/T4-week10/
+3. buka browser ke http://localhost/T4-week-10/
 
 ### daftar data
 ![index](ss/index.png)
